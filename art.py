@@ -1,7 +1,7 @@
 """
 COMP 110, Lab Drawing
 
-This module contains code to recreate the XXXX artwork
+This module contains code to recreate dog and bunny artwork
 
 Author: INSERT YOUR NAME AND EMAIL HERE
 """
@@ -12,13 +12,13 @@ import tkinter as tk
 
 def main():
     """
-    Main function to create XXXX
+    Main function to create dog and bunny artwork
     """
 
     root = tk.Tk()
-    root.title("USD COMP110 XXXX")
+    root.title("USD COMP110 dog and bunny artwork")
 
-    canvas = tk.Canvas(root, width=500, height=500, bg="white")
+    canvas = tk.Canvas(root, width=500, height=500, bg="black")
     canvas.pack()
 
     #place function call(s) here
