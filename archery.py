@@ -8,7 +8,7 @@ Author: INSERT YOUR NAME AND EMAIL HERE
 
 import tkinter as tk
 
-def bullseye(canvas,x,y):
+def bullseye(canvas):
     """
     fix this docstring
     """
