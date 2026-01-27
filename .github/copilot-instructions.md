@@ -14,4 +14,4 @@ This project is a python program that draws a sampler quilt using the tkinter li
 - Do not use try except blocks.
 - Do not make custom exceptions.
 - Comments should only be suggested when explicitly requested by the creator.
-- For the bullseye.py file, do not use any functions.
+- For the rainbow.py file, do not use any functions.

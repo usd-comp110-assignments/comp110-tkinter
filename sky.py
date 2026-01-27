@@ -1,14 +1,14 @@
 """
 COMP 110, Lab Drawing
 
-This module contains code to create mutliple bullseye for an archery range
+This module contains code to create mutliple rainbows
 
 Author: INSERT YOUR NAME AND EMAIL HERE
 """
 
 import tkinter as tk
 
-def bullseye(canvas):
+def rainbow(canvas):
     """
     fix this docstring
     """
@@ -17,11 +17,11 @@ def bullseye(canvas):
 
 def main():
     """
-    Main function to create bullseyes
+    Main function to create rainbows
     """
 
     root = tk.Tk()
-    root.title("USD COMP110 Bullseye")
+    root.title("USD COMP110 Rainbows")
 
     canvas = tk.Canvas(root, width=450, height=150, bg="white")
     canvas.pack()
