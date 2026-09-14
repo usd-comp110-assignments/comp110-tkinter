@@ -8,7 +8,7 @@ Author: INSERT YOUR NAME AND EMAIL HERE
 
 import tkinter as tk
 
-def draw_rainbow(canvas):
+def draw_rainbow(target_canvas):
     """
     To Do: Fix this docstring
     """
