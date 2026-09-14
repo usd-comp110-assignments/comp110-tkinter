@@ -1,19 +1,20 @@
 """
-COMP 110, Lab Drawing
+COMP 110 Lab: Tkinter Drawing
 
-This module contains code to create mutliple rainbows
+This module contains code to create mutliple rainbows.
 
 Author: INSERT YOUR NAME AND EMAIL HERE
 """
 
 import tkinter as tk
 
-def rainbow(canvas):
+def draw_rainbow(canvas):
     """
-    fix this docstring
+    To Do: Fix this docstring
     """
-    #put your code here and delete the pass
-    pass
+    
+    pass # To Do: Delete this line and fill in the code to draw the rainbow
+
 
 def main():
     """
@@ -26,10 +27,10 @@ def main():
     canvas = tk.Canvas(root, width=450, height=150, bg="white")
     canvas.pack()
 
-    #place function call(s) here
-
+    # To Do: Add your call(s) to draw_rainbow below this line.
 
     root.mainloop()
+
 
 if __name__ == "__main__":
     main()
