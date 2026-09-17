@@ -13,7 +13,7 @@ root.title("USD COMP110 Rainbow")
 canvas = tk.Canvas(root, width=150, height=150, bg="white")
 canvas.pack()
 
-#place code here
+# To Do: Add your code below this line (but BEFORE the mainloop line
 
 
 
