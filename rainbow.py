@@ -10,7 +10,7 @@ import tkinter as tk
 root = tk.Tk()
 root.title("USD COMP110 Rainbow")
 
-canvas = tk.Canvas(root, width=150, height=150, bg="white")
+canvas = tk.Canvas(root, width=200, height=200, bg="white")
 canvas.pack()
 
 # To Do: Add your code below this line (but BEFORE the mainloop line
