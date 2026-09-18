@@ -24,7 +24,7 @@ def main():
     root = tk.Tk()
     root.title("USD COMP110 Rainbows")
 
-    canvas = tk.Canvas(root, width=450, height=150, bg="white")
+    canvas = tk.Canvas(root, width=600, height=150, bg="white")
     canvas.pack()
 
     # To Do: Add your call(s) to draw_rainbow below this line.
